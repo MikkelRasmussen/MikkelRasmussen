@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](http://hits.dwyl.com/MikkelBuus/MikkelBuus.svg)](http://hits.dwyl.com/MikkelBuus/MikkelBuus)
 <!--
 **MikkelRasmussen/MikkelRasmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
