@@ -1,8 +1,8 @@
-![alt text](https://landsbyerne.netavis.dk/randers/wp-content/uploads/sites/2/2016/09/900557.png "Logo Title Text 1")
+![alt text](https://i.pinimg.com/originals/ba/a1/b5/baa1b555e5c312ea6917c4187a91a44f.gif "Logo Title Text 1")
 
 
 
-[![HitCount](http://hits.dwyl.com/MikkelBuus/MikkelBuus.svg)](http://hits.dwyl.com/MikkelBuus/MikkelBuus)
+
 <!--
 **MikkelRasmussen/MikkelRasmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
